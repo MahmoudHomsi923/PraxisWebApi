@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fKAwuJisQZLKnO94uEmBTeV2eHF3k33cRGPIyxR1Kl8=",
+  "Source": "PraxisWebApi",
+  "BasePath": "_content/PraxisWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

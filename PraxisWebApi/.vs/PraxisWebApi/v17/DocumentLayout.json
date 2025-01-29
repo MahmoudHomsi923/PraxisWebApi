@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kurse\\Coursera\\UX-Design\\MyProject\\PraxisWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{136F1326-9664-4CE7-9721-F457695A0498}|PraxisWebApi\\PraxisWebApi.csproj|e:\\kurse\\coursera\\ux-design\\myproject\\praxiswebapi\\praxiswebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136F1326-9664-4CE7-9721-F457695A0498}|PraxisWebApi\\PraxisWebApi.csproj|solutionrelative:praxiswebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F1326-9664-4CE7-9721-F457695A0498}|PraxisWebApi\\PraxisWebApi.csproj|e:\\kurse\\coursera\\ux-design\\myproject\\praxiswebapi\\praxiswebapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136F1326-9664-4CE7-9721-F457695A0498}|PraxisWebApi\\PraxisWebApi.csproj|solutionrelative:praxiswebapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F1326-9664-4CE7-9721-F457695A0498}|PraxisWebApi\\PraxisWebApi.csproj|e:\\kurse\\coursera\\ux-design\\myproject\\praxiswebapi\\praxiswebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136F1326-9664-4CE7-9721-F457695A0498}|PraxisWebApi\\PraxisWebApi.csproj|solutionrelative:praxiswebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "E:\\Kurse\\Coursera\\UX-Design\\MyProject\\PraxisWebApi\\PraxisWebApi\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "PraxisWebApi\\Models\\LoginResponse.cs",
+              "ToolTip": "E:\\Kurse\\Coursera\\UX-Design\\MyProject\\PraxisWebApi\\PraxisWebApi\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "PraxisWebApi\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:54:25.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\Kurse\\Coursera\\UX-Design\\MyProject\\PraxisWebApi\\PraxisWebApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "PraxisWebApi\\Models\\LoginRequest.cs",
+              "ToolTip": "E:\\Kurse\\Coursera\\UX-Design\\MyProject\\PraxisWebApi\\PraxisWebApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "PraxisWebApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:54:20.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Kurse\\Coursera\\UX-Design\\MyProject\\PraxisWebApi\\PraxisWebApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PraxisWebApi\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Kurse\\Coursera\\UX-Design\\MyProject\\PraxisWebApi\\PraxisWebApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PraxisWebApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAwwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:36:20.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
