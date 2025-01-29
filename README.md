@@ -1,6 +1,7 @@
 # PraxisWebAPI 🏥
 
 Diese WebAPI ist ein Bestandteil des PraxisApp-Projekts und stellt die Backend-Funktionalität bereit. Sie ermöglicht die Verwaltung von Patientendaten und anderen praxisbezogenen Prozessen.
+
 ✨ Features:
 
 - Verwaltung von Patienten und ihre Daten 📅
